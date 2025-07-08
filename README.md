@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Semantak</h1>
 <h3 align="center">A passionate Flutter Developer from Nepal 🇳🇵</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=semantakcodes" alt="semantakcodes" /></a> </p>
-
 - 🌱 I’m currently learning **Flutter and Dart**
 
 - 📫 How to reach me **semantak.bhandari10@gmail.com**
