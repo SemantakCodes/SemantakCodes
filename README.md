@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Semantak Bhandari from Nepal.<br>I'm a Unity Game Programmer.<br>I'm currently working on a Nepali themed horror game revolving around the story of Kichkandi. The beta release is out please check it out <3...<br>I'm open to different opportunities.<br>
+Hey, I'm Semantak Bhandari from Nepal.<br>I'm a Unity Game Programmer.<br>UwU<br>I'm open to different opportunities.<br>
 
 
 # 💻 Tech Stack:
